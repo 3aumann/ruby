@@ -8,6 +8,7 @@ require 'optparse'
 # USAGE 
 # for help in console
 # ruby Request-by-console.rb -h 
+
  
  
 class Request
